@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rebeckur.github.io/static/css/main.2c6b1272.chunk.css",
+    "main.js": "/rebeckur.github.io/static/js/main.3804663c.chunk.js",
+    "main.js.map": "/rebeckur.github.io/static/js/main.3804663c.chunk.js.map",
+    "runtime-main.js": "/rebeckur.github.io/static/js/runtime-main.050b5dbb.js",
+    "runtime-main.js.map": "/rebeckur.github.io/static/js/runtime-main.050b5dbb.js.map",
+    "static/js/2.f85388ca.chunk.js": "/rebeckur.github.io/static/js/2.f85388ca.chunk.js",
+    "static/js/2.f85388ca.chunk.js.map": "/rebeckur.github.io/static/js/2.f85388ca.chunk.js.map",
+    "index.html": "/rebeckur.github.io/index.html",
+    "precache-manifest.a80420fa51e0c2dbcc7b07c18c516a86.js": "/rebeckur.github.io/precache-manifest.a80420fa51e0c2dbcc7b07c18c516a86.js",
+    "service-worker.js": "/rebeckur.github.io/service-worker.js",
+    "static/css/main.2c6b1272.chunk.css.map": "/rebeckur.github.io/static/css/main.2c6b1272.chunk.css.map",
+    "static/js/2.f85388ca.chunk.js.LICENSE.txt": "/rebeckur.github.io/static/js/2.f85388ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.050b5dbb.js",
+    "static/js/2.f85388ca.chunk.js",
+    "static/css/main.2c6b1272.chunk.css",
+    "static/js/main.3804663c.chunk.js"
+  ]
+}
